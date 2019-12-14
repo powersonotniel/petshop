@@ -1,0 +1,20 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Milagro Hills Kennel</string>
+    <string name="order_summary_nama">Nama : <xliff:g example="Dandi" id="name">%s</xliff:g></string>
+    <string name="order_summary_kritik">Kritik :  <xliff:g example="GaEnak" id="kritik">%s</xliff:g></string>
+    <string name="order_saran">Saran : <xliff:g example="dadang" id="saran">%s</xliff:g></string>
+
+    <string name="thank_you">Thank you for request</string>
+    <string name="order_summary_email_subject">Pesan Produk<xliff:g example="Dandi" id="name">%s</xliff:g></string>
+
+    <string name="name">name</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="kritik">kritik</string>
+
+    <!-- Hint text display in the empty field for the user's name [CHAR LIMIT=20] -->
+    <string name="saran">saran</string>
+
+    <string name="order_summary_name">Name: <xliff:g id="name" example="niel">%s</xliff:g></string>
+
+</resources>
